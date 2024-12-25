@@ -3,3 +3,7 @@ venv
 ./venv
 /venv
 \venv
+.artifact
+.log
+artifact
+logs
